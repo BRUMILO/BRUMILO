@@ -9,9 +9,9 @@ I'm a university student with a deep passion for programming and continuous lear
 - Collaborating on open-source or personal projects
 
 ## 🧠 Skills & Technologies
-- **Languages:** Python, Java, JavaScript, HTML, CSS, SQL  
+- **Languages:** Python, Java, PHP, JavaScript, HTML, CSS, SQL  
 - **Frameworks & Libraries:** Flask, Bootstrap, Node.js  
-- **Tools & Environments:** Git, GitHub, VS Code, NetBeans, IntelliJ IDEA
+- **Tools & Environments:** Git, GitHub, VS Code
 
 ## 🌱 Currently working on
 Improving my full-stack development skills and diving deeper into web technologies and database design.
