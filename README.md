@@ -8,11 +8,10 @@ I'm a passionate developer focused on building efficient and scalable software s
 
 ### ⚡ About Me
 
-- 🔭 I’m currently working on **Full Stack Development & Python Projects**
-- 🌱 I’m currently learning **Advanced Database Design & Rust**
+- 🔭 I’m currently working on **Full Stack Development**
+- 🌱 I’m currently learning **Advanced Database Design**
 - 👯 I’m looking to collaborate on **Open Source projects**
-- 💬 Ask me about **Python, Web Development, and Linux**
-- ⚡ Fun fact: **I love turning coffee into code** ☕
+- 💬 Ask me about **Python, Web Development**
 
 ---
 
