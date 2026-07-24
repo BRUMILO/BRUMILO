@@ -7,7 +7,7 @@
 ### 🛠️ Languages & Tools
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,mysql,flask,nodejs,bootstrap,tailwind,git,github,vscode,linux&perline=7" />
+  <img src="https://skillicons.dev/icons?i=py,java,js,php,html,css,mysql,postgres,flask,laravel,vue,nodejs,bootstrap,tailwind,npm,git,github,vscode,linux&perline=7" />
 </div>
 
 ---
