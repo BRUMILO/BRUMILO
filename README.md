@@ -2,17 +2,6 @@
 
 ### 🚀 Software Developer
 
-I'm a passionate developer focused on building efficient and scalable software solutions. I enjoy exploring new technologies and solving complex problems through clean code. My goal is to contribute to meaningful projects and continuously expand my skill set.
-
----
-
-### ⚡ About Me
-
-- 🔭 I’m currently working on **Full Stack Development**
-- 🌱 I’m currently learning **Advanced Database Design**
-- 👯 I’m looking to collaborate on **Open Source projects**
-- 💬 Ask me about **Python, Web Development**
-
 ---
 
 ### 🛠️ Languages & Tools
